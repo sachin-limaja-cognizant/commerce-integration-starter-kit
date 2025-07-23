@@ -21,7 +21,8 @@
         {
           "name": "description"
         }
-      ]
+      ],
+      "priority":true
     }
   },
   {
@@ -46,7 +47,8 @@
         {
           "name": "description"
         }
-      ]
+      ],
+      "priority":true
     }
   },
   {
@@ -71,7 +73,8 @@
         {
           "name": "updated_at"
         }
-      ]
+      ],
+      "priority":true
     }
   },
   {
@@ -90,7 +93,8 @@
         {
           "name": "lastname"
         }
-      ]
+      ],
+      "priority":true
     }
   },
   {
@@ -100,7 +104,8 @@
         {
           "name": "*"
         }
-      ]
+      ],
+      "priority":true
     }
   },
   {
@@ -110,7 +115,8 @@
         {
           "name": "*"
         }
-      ]
+      ],
+      "priority":true
     }
   },
   {
@@ -129,7 +135,8 @@
         {
           "name": "updated_at"
         }
-      ]
+      ],
+      "priority":true
     }
   },
   {
@@ -139,7 +146,8 @@
         {
           "name": "*"
         }
-      ]
+      ],
+      "priority":true
     }
   }
 ]
